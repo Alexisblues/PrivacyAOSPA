@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AOSPA Privacy Fix</string>
+    <string name="description">Display system apps in AOSPA Privacy.</string>
+</resources>
